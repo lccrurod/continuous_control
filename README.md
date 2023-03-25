@@ -4,7 +4,7 @@ This repository corresponds to the second project in Udacity's Deep Reinforcemen
 
 ## The enviroment:
 
-![env screenshot](https://github.com/lccrurod/navigation_drlnd/blob/main/screen%20intro%20enviroment.png)
+![env screenshot](https://github.com/lccrurod/continuous_control/blob/main/enviroment_intro.png)
 
 In this enviroment an agent can observe a 33 variables corresponding to position, rotation, velocity and angular velocity of and arm and each action the arm takes is a vector with 4 entries, ranging from -1 to 1, that map to torques applied to both joints. The agent will receive +0.1 reward for every step the arm's hand is in the goal location, which translates in and objetive to stay in the tarjet location for as long as posible.
 
